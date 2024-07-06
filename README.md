@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Poojesh Shetty
 - 👀 I’m interested in topics around Software Development.
-- 💻 I'm currently working as a software engineer in Wednesday Solutions.
+- 💻 I'm currently working as a software engineer at Fractal
 - 🏹 I have knowledge around building software in React, React-Native and Node.
 - 📫 You can reach me through my email address shettypoojesh@live.com
